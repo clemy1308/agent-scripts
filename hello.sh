@@ -5,4 +5,4 @@
 
 ## ---------- script that display hello word in the screen -----------------
 
-echo "Yello Word !"
+echo "Hello Word !"
